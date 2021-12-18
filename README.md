@@ -1,4 +1,4 @@
-### Olá! Eu sou Carlos César
+### Olá! Eu sou Carlos César, estudante de ciência da computação e apaixonado por Web development
 
 - 🌱 Atualmente estou estudando Javascript
 
