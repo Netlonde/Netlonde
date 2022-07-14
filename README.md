@@ -1,4 +1,4 @@
-### Olá! Eu sou Carlos César, apaixonado por Web development
+### Olá! Eu sou Carlos César, apaixonado por desenvolvimento de software
 
 - 🌱 Atualmente estou estudando Javascript
 
