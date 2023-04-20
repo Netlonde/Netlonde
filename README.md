@@ -1,7 +1,7 @@
 
  <img src="https://github.com/oliveira-gabriel/oliveira-gabriel/blob/main/dev.gif?raw=true" width="50%" align="right"/>
 
-  # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30" width="30"/>, I'm Carlos Csar
+  # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30" width="30"/>, I'm Carlos Cesar
 
   
   ### A passionate front-end developer
